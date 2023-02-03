@@ -35,3 +35,5 @@ the future.
 
 [Full details](https://docs.dasharo.com/variants/pc_engines/post-eol-fw-announcement).
 
+Sincerely,
+3mdeb Team
