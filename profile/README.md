@@ -1,7 +1,7 @@
 ## Hi there, we are PC Engines 👋
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/pcengines/.github/main/images/pcnegines2.png" width="300" align=center/>
+<img src="https://raw.githubusercontent.com/pcengines/.github/main/images/pcengines2.png" width="300" align=center/>
 </p>
 
 This is official repository for PC Engines open-source firmware, software and
