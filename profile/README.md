@@ -15,7 +15,7 @@ documentation.
 ### Open-source firmware sponsorship announcement
 
 > **NOTE**: following message is from [3mdeb Team](https://github.com/3mdeb) which
-> between February 2016 and September 2023 was officially responsible for
+> between February 2016 and September 2022 was officially responsible for
 > maintaining PC Engines organization on Github as well as [firmware distribution website](https://pcengines.github.io) 
 > and [forum](https://forum.pcengines.dev) on behalf of PC Engines. 
 
